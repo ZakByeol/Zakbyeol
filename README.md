@@ -6,6 +6,8 @@
   <br> 
   <br>
   <h2>🥨 My Stack 🥨</h2>
+  <img src=https://img.shields.io/badge/Pohang_High-87CEEB?style=for-the-badge&logo=academia&logoColor=white>
+  <img src=https://img.shields.io/badge/Yeungnam_Uni-003399?style=for-the-badge&logo=academia&logoColor=white>
   <br>
   <br>
   <h2>🍒 Cowork Tools 🍒</h2>
