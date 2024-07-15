@@ -11,7 +11,7 @@
   <br>
   <br>
   <h2>⚒️ CoWork Tools ⚒️</h2>
-  <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white>
+  <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white> <img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white> <img src=https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white>
   [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/your-username](https://detailed-rainforest-b84.notion.site/Student-Baegeonwoo-8911f909296e48de99563d059eca86e9))
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakbyeol)
   <br>
