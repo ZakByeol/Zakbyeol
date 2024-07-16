@@ -7,7 +7,6 @@
   <br> 
   <br>
   <h2>🍎 My Stack 🍎</h2>
-  <img src=https://img.shields.io/badge/Yeungnam_Uni-003399?style=for-the-badge&logo=academia&logoColor=white>
   <br>
   <br>
   <h2>⚒️ CoWork Tools ⚒️</h2>
