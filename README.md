@@ -17,3 +17,11 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakbyeol)
   <br>
 </div>
+<h3 align="center">📝 Info 📝</h3>
+
+<div align="center">
+  <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakByeol&layout=compact&theme=dark"/>&nbsp
+</div>
+<div align="center">
+  <img
