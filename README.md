@@ -13,7 +13,7 @@
   <h2>⚒️ CoWork Tools ⚒️</h2>
   <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white>
   
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Student-Baegeonwoo-1f93ab70a0b980639997da318dc209f1?pvs=4)
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zakbyeol)
   <br>
   <h3 align="center">📝 Info 📝</h3>
