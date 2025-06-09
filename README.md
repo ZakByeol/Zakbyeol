@@ -6,10 +6,6 @@
   <img src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white>
   <br> 
   <br>
-  <h2>🍎 My Stack 🍎</h2>
-  <img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white>
-  <br>
-  <br>
   <h2>⚒️ CoWork Tools ⚒️</h2>
   <img src=https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white>
   
